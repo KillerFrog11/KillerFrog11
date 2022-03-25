@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KillerFrog11
 - 👀 I’m interested in Python, Discord Bots & Game development.
-- 🌱 I’m currently learning C#, SQL, HTML & JAVA, Python as well, of course.
+- 🌱 I’m currently learning C#, SQL, HTML, PHP & JAVA, Python as well, of course.
 - 📫 You can reach me from frogverse.co.uk or nanoidbot.xyz.
 
 <!---
